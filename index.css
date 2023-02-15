@@ -1,0 +1,77 @@
+*
+{
+	margin : 0;
+	padding : 0;
+}
+body
+{
+	width: 100%;
+	height: 100%;
+    background-color:beige;
+}
+#nav-bar
+{
+    display:table !important;
+    margin:auto;
+    background: #ccc;
+}
+#Poornima
+{
+    margin:6%;
+    border-bottom:1px solid #000;
+    
+}
+#paris
+{
+    margin:6%;
+    border-bottom:1px solid #000 !important;
+    
+}
+#websitesilike
+{
+    margin:6%;
+    border-bottom:1px solid #000;
+}
+#htmltags
+{
+    margin:6%;
+    border-bottom:1px solid #000;
+}
+.link-style
+{
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+}
+.heading-style
+{
+    color: #009FBC;
+    font:sans-serif !important;
+}
+#image-style
+{
+    border: 2px solid #000;
+}
+li
+{
+    padding:1%;
+}
+table
+{
+    border:1px solid #000;
+    width:350px;
+}
+table tr td 
+{
+    border-top: 1px solid #000;
+    padding-left:5%;
+}
+th
+{
+    background: #000;
+    color:#ffffff;
+    font: 14px 'sans-serif';
+}
+tr:nth-child(odd){
+    background: #ccc
+}
